@@ -1,0 +1,71 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:short_grass": 1,
+      "minecraft:oak_leaves": 4,
+      "minecraft:crafting_table": 2,
+      "minecraft:birch_log": 8,
+      "minecraft:leaf_litter": 8,
+      "minecraft:oak_log": 10,
+      "minecraft:white_bed": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 2,
+      "minecraft:time_since_rest": 2002,
+      "minecraft:walk_one_cm": 42587,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 1101,
+      "minecraft:mob_kills": 5,
+      "minecraft:damage_taken": 480,
+      "minecraft:play_time": 13324,
+      "minecraft:damage_dealt": 586,
+      "minecraft:jump": 57,
+      "minecraft:time_since_death": 9239,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 28507,
+      "minecraft:sleep_in_bed": 1,
+      "minecraft:fall_one_cm": 3060,
+      "minecraft:total_world_time": 13324,
+      "minecraft:fly_one_cm": 4332,
+      "minecraft:walk_on_water_one_cm": 2242,
+      "minecraft:deaths": 1
+    },
+    "minecraft:used": {
+      "minecraft:wooden_axe": 25,
+      "minecraft:crafting_table": 2,
+      "minecraft:white_bed": 1
+    },
+    "minecraft:killed": {
+      "minecraft:skeleton": 1,
+      "minecraft:sheep": 3,
+      "minecraft:cow": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:leaf_litter": 12,
+      "minecraft:oak_log": 10,
+      "minecraft:white_wool": 3,
+      "minecraft:birch_log": 8,
+      "minecraft:white_bed": 1,
+      "minecraft:mutton": 5,
+      "minecraft:leather": 1,
+      "minecraft:crafting_table": 2,
+      "minecraft:bone": 2,
+      "minecraft:arrow": 1,
+      "minecraft:beef": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:birch_planks": 1
+    },
+    "minecraft:killed_by": {
+      "minecraft:zombie": 1
+    },
+    "minecraft:crafted": {
+      "minecraft:white_bed": 1,
+      "minecraft:stick": 12,
+      "minecraft:wooden_axe": 1,
+      "minecraft:birch_planks": 20,
+      "minecraft:crafting_table": 1
+    }
+  },
+  "DataVersion": 4671
+}
